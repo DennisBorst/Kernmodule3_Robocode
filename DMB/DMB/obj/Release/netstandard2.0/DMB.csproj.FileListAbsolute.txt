@@ -1,0 +1,11 @@
+D:\.Net\RoboCode\DMB\DMB\bin\Release\netstandard2.0\DMB.deps.json
+D:\.Net\RoboCode\DMB\DMB\bin\Release\netstandard2.0\DMB.dll
+D:\.Net\RoboCode\DMB\DMB\bin\Release\netstandard2.0\DMB.pdb
+D:\.Net\RoboCode\DMB\DMB\bin\Release\netstandard2.0\robocode.dll
+D:\.Net\RoboCode\DMB\DMB\bin\Release\netstandard2.0\robocode.xml
+D:\.Net\RoboCode\DMB\DMB\obj\Release\netstandard2.0\DMB.csprojAssemblyReference.cache
+D:\.Net\RoboCode\DMB\DMB\obj\Release\netstandard2.0\DMB.AssemblyInfoInputs.cache
+D:\.Net\RoboCode\DMB\DMB\obj\Release\netstandard2.0\DMB.AssemblyInfo.cs
+D:\.Net\RoboCode\DMB\DMB\obj\Release\netstandard2.0\DMB.csproj.CopyComplete
+D:\.Net\RoboCode\DMB\DMB\obj\Release\netstandard2.0\DMB.dll
+D:\.Net\RoboCode\DMB\DMB\obj\Release\netstandard2.0\DMB.pdb
